@@ -1,0 +1,160 @@
+#outer{
+    height:400px;
+    width:660px;
+}
+
+#inner1{
+    height:80px;
+    width:630px;
+    border:2px solid rgb(237, 15, 15);
+    margin:20px;
+}
+#p1{
+    height:20px;
+    margin:5px;
+    margin-left:60px;   
+}
+#p2{
+    height:20px;
+    margin:5px;
+    margin-left: 80px;
+
+}
+
+#ima{
+    height:70px;
+    width:50px;
+    margin:10px;
+    align-items: center;
+}
+#divp{
+    background-color: brown;
+    border-radius: 8px;
+    height:20px;
+    width:200px;
+    color:white;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    margin-left: 180px;
+    
+
+
+}
+
+#roll{
+    color:black;
+}
+
+
+#sr
+{
+    text-align: end;
+    height:25px;
+    width:630px;
+    margin-left: 25px;
+}
+
+
+#inst{
+ 
+    height:20px;
+    
+
+}
+#div2{
+    
+    height:20px;
+    margin:5px;
+    
+    text-align: center;
+    
+}
+#div3{
+     
+    height:250px;
+   
+     
+    
+}
+#photo{
+ 
+    border:1px solid black;
+    height:75px;
+    width:60px;
+    display:flex;
+    align-items:center;
+    margin-left: 500px;
+
+}
+#divp1{
+   
+    height:20px;
+    width:90%;
+    margin-left: 70px;
+     
+
+}
+
+#divp2{
+   
+    height:20px;
+    width:90%;
+    margin-left: 20px;
+    
+}
+
+#divp3{
+    
+    height:20px;
+    width:90%;
+    margin-left: 20px;
+ 
+}
+#divp4{
+     
+    height:20px;
+    width:90%;
+    margin-left: 20px;
+
+    
+}
+
+#name{
+    color:black;
+
+
+}
+#clgName{
+    color:black;
+
+
+}
+#str{
+     
+     
+    height:15px;
+    width:120px;
+    border-radius: 3px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+#tab{
+    
+    height:430px;
+    width:660px;
+  
+   
+
+}
+.container{
+    border:1px solid black;
+    height:1080px;
+    width:660px;
+    background-color: rgb(244, 238, 235);
+}
+
+#photo img{
+    height: 100%;
+    width: 100%;
+}
